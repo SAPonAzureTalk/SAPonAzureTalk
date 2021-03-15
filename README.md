@@ -1,5 +1,5 @@
 # SAPonAzureTalk
-Discussions, guest talks, and debates about SAP on Azure 
+Discussions, guest talks, and debates about SAP on Azure @ http://SAPonAzureTalk.com
 
 Hosts: Ravi Kashyap (linkedin.RaviKashyap.com) and Nathan Weaver (linkedin.com/in/NathanWeaverSAP)
 
