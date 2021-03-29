@@ -8,7 +8,6 @@ Send us your comments, questions, and feedback at connect[at]SAPonAzureTalk.com
 <br><br>
 
 <iframe src="https://anchor.fm/saponazuretalk/embed/episodes/Episode-5-Plumbing-in-Azure-SAP-Landing-Zone-Considerations-unrelated-to-Mars-Rover-etku63" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
 <br><br>
 
 <iframe src="https://anchor.fm/saponazuretalk/embed/episodes/Episode-4-Whats-HA--again--Final-Part---Shared-Storage-eth70v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
