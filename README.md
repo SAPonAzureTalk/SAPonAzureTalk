@@ -1,8 +1,8 @@
 Discussions, guest talks, and debates about SAP on Azure
 
-Hosts: Ravi Kashyap (linkedin.RaviKashyap.com) and Nathan Weaver (linkedin.com/in/NathanWeaverSAP)
+Hosts: **Ravi Kashyap** (linkedin.RaviKashyap.com) and **Nathan Weaver** (linkedin.com/in/NathanWeaverSAP)
 
-Check out the SAP on Microsoft Azure book by SAP Press at book.SAPonMicrosoftAzure.com
+Check out the SAP on Microsoft Azure book by SAP Press at **book.SAPonMicrosoftAzure.com**
 
 Send us your comments, questions, and feedback at connect[at]SAPonAzureTalk.com
 <br><br>
