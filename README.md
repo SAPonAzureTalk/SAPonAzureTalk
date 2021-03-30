@@ -2,11 +2,12 @@ If you'd like us to talk about any particular topic or have comments, questions,
 <br> <br>
 
 Hosts: **Ravi Kashyap** (linkedin.RaviKashyap.com) and **Nathan Weaver** (linkedin.com/in/NathanWeaverSAP)
-<br> <br>
-Check out the SAP on Microsoft Azure book by SAP Press at **book.SAPonMicrosoftAzure.com**
-<br> <br>
+
 <iframe src="https://github.com/sponsors/Ravi-Kashyap/button" title="Sponsor Ravi-Kashyap" height="35" width="116" style="border: 0;"></iframe>
-<br><br>
+<br> <br>
+Check out the (SAP Press) SAP on Microsoft Azure book by Ravi Kashyap at **book.SAPonMicrosoftAzure.com**
+<br> <br>
+
 
 <iframe src="https://anchor.fm/saponazuretalk/embed/episodes/Episode-5-Plumbing-in-Azure-SAP-Landing-Zone-Considerations-unrelated-to-Mars-Rover-etku63" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 <br>
