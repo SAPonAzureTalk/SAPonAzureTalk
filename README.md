@@ -3,7 +3,7 @@ If you'd like us to talk about any particular topic or have comments, questions,
 Hosts: [**Ravi Kashyap**](http://linkedin.RaviKashyap.com) and [**Nathan Weaver**](https://linkedin.com/in/NathanWeaverSAP)
 <iframe src="https://github.com/sponsors/Ravi-Kashyap/button" title="Sponsor Ravi-Kashyap" height="35" width="116" style="border: 0;"></iframe>
 
-Check out the, SAP Press, [SAP on Microsoft Azure book](https://book.SAPonMicrosoftAzure.com) by Ravi Kashyap to learn more about how SAP works on Azure.
+Check out the [SAP on Microsoft Azure book (SAP Press)](https://www.sap-press.com/sap-on-microsoft-azure_5174) by Ravi Kashyap to learn more about how SAP works on Azure.
 
 <br>  
 ****Listen to the podcast episodes below or subscribe where ever you listen to podcasts (Spotify, Apple Podcasts, Google Podcasts, Overcast, etc.) ****
