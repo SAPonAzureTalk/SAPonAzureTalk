@@ -5,7 +5,7 @@ Hosts: [**Ravi Kashyap**](http://linkedin.RaviKashyap.com) and [**Nathan Weaver*
 
 Check out the [SAP on Microsoft Azure book (SAP Press)](https://www.sap-press.com/sap-on-microsoft-azure_5174) by Ravi Kashyap to explore more SAP on Azure topics.
 <br>  
-****Listen to the podcast episodes below or subscribe where ever you listen to podcasts (Spotify, Apple Podcasts, Google Podcasts, Overcast, etc.) ****
+****Listen to the podcast episodes below or subscribe where ever you listen to podcasts ([Spotify](https://open.spotify.com/show/4KLJUFrqkSq60gdN1fOlNz), [Apple Podcasts](https://podcasts.apple.com/us/podcast/sap-on-azure-talk/id1557359410), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZmNhNmY5NC9wb2RjYXN0L3Jzcw), etc.) ****
 <iframe src="https://anchor.fm/saponazuretalk/embed/episodes/Episode-5-Plumbing-in-Azure-SAP-Landing-Zone-Considerations-unrelated-to-Mars-Rover-etku63" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 <br>
 <iframe src="https://anchor.fm/saponazuretalk/embed/episodes/Episode-4-Whats-HA--again--Final-Part---Shared-Storage-eth70v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
