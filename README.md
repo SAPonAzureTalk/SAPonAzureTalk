@@ -4,7 +4,6 @@ Hosts: [**Ravi Kashyap**](http://linkedin.RaviKashyap.com) and [**Nathan Weaver*
 <iframe src="https://github.com/sponsors/Ravi-Kashyap/button" title="Sponsor Ravi-Kashyap" height="35" width="116" style="border: 0;"></iframe>
 
 Check out the [SAP on Microsoft Azure book (SAP Press)](https://www.sap-press.com/sap-on-microsoft-azure_5174) by Ravi Kashyap to explore more SAP on Azure topics.
-
 <br>  
 ****Listen to the podcast episodes below or subscribe where ever you listen to podcasts (Spotify, Apple Podcasts, Google Podcasts, Overcast, etc.) ****
 <iframe src="https://anchor.fm/saponazuretalk/embed/episodes/Episode-5-Plumbing-in-Azure-SAP-Landing-Zone-Considerations-unrelated-to-Mars-Rover-etku63" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
