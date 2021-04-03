@@ -5,7 +5,7 @@ Hosts: **Ravi Kashyap** [linkedin.RaviKashyap.com](https://linkedin.RaviKashyap.
 
 Check out the (SAP Press) SAP on Microsoft Azure book by Ravi Kashyap at [book.SAPonMicrosoftAzure.com](https://book.SAPonMicrosoftAzure.com)
 <br>  
-****Listen to the podcast episodes below or subscribe where ever you listen to podcast (Spotify, Apple Podcasts, Google Podcasts, Overcast, etc.) ****
+****Listen to the podcast episodes below or subscribe where ever you listen to podcasts (Spotify, Apple Podcasts, Google Podcasts, Overcast, etc.) ****
 <iframe src="https://anchor.fm/saponazuretalk/embed/episodes/Episode-5-Plumbing-in-Azure-SAP-Landing-Zone-Considerations-unrelated-to-Mars-Rover-etku63" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 <br>
 <iframe src="https://anchor.fm/saponazuretalk/embed/episodes/Episode-4-Whats-HA--again--Final-Part---Shared-Storage-eth70v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
