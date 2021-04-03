@@ -1,6 +1,6 @@
 If you'd like us to talk about any particular topic or have comments, questions, or feedback - get in touch at **connect[at]SAPonAzureTalk.com**
 <br> <br>
-Hosts: **Ravi Kashyap** [linkedin.RaviKashyap.com](https://linkedin.RaviKashyap.com) and **Nathan Weaver** [linkedin.com/in/NathanWeaverSAP](https://linkedin.com/in/NathanWeaverSAP)
+Hosts: **Ravi Kashyap** [linkedin.RaviKashyap.com](http://linkedin.RaviKashyap.com) and **Nathan Weaver** [linkedin.com/in/NathanWeaverSAP](https://linkedin.com/in/NathanWeaverSAP)
 <iframe src="https://github.com/sponsors/Ravi-Kashyap/button" title="Sponsor Ravi-Kashyap" height="35" width="116" style="border: 0;"></iframe>
 
 Check out the (SAP Press) SAP on Microsoft Azure book by Ravi Kashyap at [book.SAPonMicrosoftAzure.com](https://book.SAPonMicrosoftAzure.com)
