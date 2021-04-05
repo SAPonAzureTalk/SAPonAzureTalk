@@ -7,11 +7,6 @@ Check out the [SAP on Microsoft Azure book (SAP Press)](https://www.sap-press.co
 <br>  
 ****Listen to the podcast episodes below or subscribe where ever you listen to podcasts ([Spotify](https://open.spotify.com/show/4KLJUFrqkSq60gdN1fOlNz), [Apple Podcasts](https://podcasts.apple.com/us/podcast/sap-on-azure-talk/id1557359410), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZmNhNmY5NC9wb2RjYXN0L3Jzcw), etc.) ****
 
-<iframe src="https://embed.podcasts.apple.com/us/podcast/sap-on-azure-talk/id1557359410?itsct=podcast_box&amp;itscg=30200&amp;theme=auto" sandbox="encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background: transparent none repeat scroll 0% 0%;" height="450px" frameborder="0"></iframe>
-
- 
-
-
 <iframe src="https://anchor.fm/saponazuretalk/embed/episodes/Episode-6-No-so-boring-Backups-eu5q9b" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 <iframe src="https://anchor.fm/saponazuretalk/embed/episodes/Episode-5-Plumbing-in-Azure-SAP-Landing-Zone-Considerations-unrelated-to-Mars-Rover-etku63" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 <iframe src="https://anchor.fm/saponazuretalk/embed/episodes/Episode-4-Whats-HA--again--Final-Part---Shared-Storage-eth70v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
