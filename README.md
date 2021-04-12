@@ -4,7 +4,6 @@ Hosts: [**Ravi Kashyap**](https://linkedin.kashyap.one) and [**Nathan Weaver**](
 
 Check out the [SAP on Microsoft Azure book (SAP Press)](https://www.sap-press.com/sap-on-microsoft-azure_5174) by Ravi Kashyap to explore more SAP on Azure topics.
 <br>  
-****Listen to the podcast episodes below or subscribe where ever you listen to podcasts ([Spotify](https://open.spotify.com/show/4KLJUFrqkSq60gdN1fOlNz), [Apple Podcasts](https://podcasts.apple.com/us/podcast/sap-on-azure-talk/id1557359410), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZmNhNmY5NC9wb2RjYXN0L3Jzcw), etc.) ****
 
 **Note**: If you don't see the Apple podcast player below, your browser is probably blocking cookies; either enable third-party cookies or click on other provider links to listen there directly. 
 
