@@ -3,7 +3,8 @@
 Hosts: [**Ravi Kashyap**](https://linkedin.kashyap.one) and [**Nathan Weaver**](https://linkedin.com/in/NathanWeaverSAP)
 <iframe src="https://github.com/sponsors/Ravi-Kashyap/button" title="Sponsor Ravi-Kashyap" height="35" width="116" style="border: 0;"></iframe>
 
-Check out the [SAP on Microsoft Azure book (SAP Press)](https://www.sap-press.com/sap-on-microsoft-azure_5174) by Ravi Kashyap to explore more SAP on Azure topics.
+<br> 
+**Check out the [SAP on Microsoft Azure book (SAP Press)](https://www.sap-press.com/sap-on-microsoft-azure_5174) by Ravi Kashyap to explore more SAP on Azure topics**
 <br>  
 
 *If you don't see the Apple podcast player below, your browser is probably blocking cookies; either enable third-party cookies or click on other provider links to listen there directly.*
