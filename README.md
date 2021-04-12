@@ -1,5 +1,3 @@
-### Discussions, guest talks, and debates about SAP on Azure
-
 Hosts: [**Ravi Kashyap**](https://linkedin.kashyap.one) and [**Nathan Weaver**](https://linkedin.com/in/NathanWeaverSAP)
 <iframe src="https://github.com/sponsors/Ravi-Kashyap/button" title="Sponsor Ravi-Kashyap" height="35" width="116" style="border: 0;"></iframe>
 
